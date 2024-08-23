@@ -5,6 +5,7 @@ public class App {
         // Insira abaixo uma nova linha que mostra na tela o seu nome completo
         System.out.println("Gabriel Azeredo Bianki");
         System.out.println("MHY");
+        System.out.println("Pedro Arthur Pamplona Hartmann");
         System.out.println("Bruno Duarte Carlan");
         System.out.println("Jhone Salvador Menezes");
         System.out.println("Pedro Henrique Schneider Conzatti");
