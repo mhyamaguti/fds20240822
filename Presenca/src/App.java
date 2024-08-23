@@ -5,6 +5,10 @@ public class App {
         // Insira abaixo uma nova linha que mostra na tela o seu nome completo
         System.out.println("Isadora Morari");
         System.out.println("MHY");
+
+        System.out.println("Leonardo Chiao Andreucci");
+        
+
         System.out.println("Gustavo Dmutti Melleu");
          System.out.println("Gabriel Fernandez Dalbem");
         //samuel morales
@@ -16,5 +20,6 @@ public class App {
         System.out.println("Gabriel Bernaud Coelho");
         System.out.println("Estevam Cabral Pacheco");
         System.out.println("Gabriel da Silva Bueno");
+
     }
 }
