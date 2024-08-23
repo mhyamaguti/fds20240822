@@ -3,8 +3,8 @@ public class App {
         System.out.println("Turma 32 de Fundamentos de Desenvolvimento de Software");
         System.out.println("MHY");
         // Insira abaixo uma nova linha que mostra na tela o seu nome completo
-        System.out.println("Pedro Augusto Soares");
         System.out.println("Presentes:");
+        System.out.println("Pedro Augusto Soares");
         System.out.println("Carlos Eduardo Alves Peereira Cunha");
         System.out.println("Eduardo Carlesso");
         System.out.println("Breno Spohr Bernardi da Cunha");
