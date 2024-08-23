@@ -6,6 +6,9 @@ public class App {
         System.out.println("Isadora Morari");
         System.out.println("MHY");
 
+        System.out.println("João Vitor Freitas e Gabriel Escouto (acabou a bateria)");
+
+
         System.out.println("Leonardo Chiao Andreucci");
         
 
@@ -20,6 +23,7 @@ public class App {
         System.out.println("Gabriel Bernaud Coelho");
         System.out.println("Estevam Cabral Pacheco");
         System.out.println("Gabriel da Silva Bueno");
+
 
     }
 }
